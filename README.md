@@ -1,6 +1,6 @@
 # jb-automation-hotkeys
-f4 - punching (pressing f)
-f5 - walking (holding w)
-f6 - sprinting (holding shift)
-f7 - autoclicking
-f8 - holding e
+f4 - punching (pressing f) <br>
+f5 - walking (holding w) <br>
+f6 - sprinting (holding shift) <br>
+f7 - autoclicking <br>
+f8 - holding e <br>
